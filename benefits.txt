@@ -1,0 +1,32 @@
+For Leasee:
+
+Privacy
+- Encrypt SS numbers and bank account
+
+Timesaver
+- Upload your information once and have it there for all future applications ("Common app for leases")
+- Clear understanding of application requirements
+  - System checks for # of bank statements
+- Pay application fee via PayPal so you don't have to get bank check or put in your CC info
+
+Integration
+- Connect with bank, mint, turbotax, etc. to add info directly
+
+
+-------------------------------------------------------
+
+For Real Estate:
+
+Security
+- There's a chance that big real estate companies already mishandle private information (should research this)
+  - Saves them time and money going through a company that handles the complianc
+- Since some of the services are integrated, like bank accounts, they can ensure that the info is legit
+
+
+Consistency
+- No messy or unreadable PDFs
+- Choose requirements once from dropdown and keep those settings for all applicants
+  - E.g. # of bank statements, years of tax returns etc.
+
+Timesaver
+- Warns the user if they failed to upload the correct docs, so you don't have to go back-and-forth on email
