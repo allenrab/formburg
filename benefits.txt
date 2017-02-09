@@ -8,6 +8,7 @@ Timesaver
 - Clear understanding of application requirements
   - System checks for # of bank statements
 - Pay application fee via PayPal so you don't have to get bank check or put in your CC info
+- Don't have to scan or edit blurry PDFs
 
 Integration
 - Connect with bank, mint, turbotax, etc. to add info directly
@@ -21,6 +22,7 @@ Security
 - There's a chance that big real estate companies already mishandle private information (should research this)
   - Saves them time and money going through a company that handles the complianc
 - Since some of the services are integrated, like bank accounts, they can ensure that the info is legit
+- Include e-signatures
 
 
 Consistency
@@ -30,3 +32,9 @@ Consistency
 
 Timesaver
 - Warns the user if they failed to upload the correct docs, so you don't have to go back-and-forth on email
+- Don't have to draft new email with application requirements for every management company.
+  - Can create templates for each of the management companies
+  
+Analytics
+- Gives realtor a dashboard for all active applications so they can manage their properties
+- Can provide stats for accepted/rejected applications
