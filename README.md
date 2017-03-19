@@ -7,6 +7,6 @@ Welcome boys! I created this when we first spoke about it in early April and tot
 
 Looking back it, these text files should be in Markdown language to make them more readable. Will do later.
 
-##Next Task
+## Next Task
 &#9633; Set date for hackathon
 
